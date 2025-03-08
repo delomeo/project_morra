@@ -1,6 +1,6 @@
 # Project Morra
 
-Project repo for the publication: ["The Morra Game: Developing an Automatic Gesture Recognition System to Interface Human and Artificial Players"](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_21)
+Project repo for the publication: ["The Morra Game: Developing an Automatic Gesture Recognition System to Interface Human and Artificial Players (2022)"](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_21)
 
 ## Table of Contents
 - [Introduction](#introduction)
